@@ -6,7 +6,5 @@
 -->
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Data Science
-- 🤔 I’m looking for help with Internship and job in Data Science
 - 📫 How to reach me: manthankyada37@gmail.com
 
